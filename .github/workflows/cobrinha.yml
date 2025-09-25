@@ -1,26 +1,36 @@
 name: Generate Datas
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule:
+    - cron: "0 */12 * * *"  # executa a cada 12 horas
   workflow_dispatch:
 
+permissions:
+  contents: write  # garante permissão de escrita no repositório
+
 jobs:
-  build:
-    name: Jobs to update datas
+  update-snake:
+    name: Atualiza Snake Contribution
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
+      # Clona o repositório
+      - uses: actions/checkout@v3
+
+      # Gera a snake SVG
+      - name: Gerar Snake SVG
+        uses: Platane/snk@master
         with:
           github_user_name: EduardoFedeli
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
+      # Commit & Push diretamente para branch "output"
+      - name: Commit and Push SVG
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Atualiza snake contribution" || echo "Sem mudanças para commit"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/EduardoFedeli/EduardoFedeli.git HEAD:output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  
+
