@@ -15,7 +15,7 @@
 ---
 
 ## 🌐 Onde me encontrar
-- 🌎 [[Meu site/portfólio no Notion](COLE_SEU_LINK_AQUI)](https://eduardo-fedeli.notion.site/Eduardo-Fedeli-2770deb1a37d80f584c4f1ff1f17fa2a)  
+- 🌎 https://eduardo-fedeli.notion.site/Eduardo-Fedeli-2770deb1a37d80f584c4f1ff1f17fa2a 
 - 💼 [LinkedIn](https://www.linkedin.com/in/eduardo-fedeli-69174223b/)  
 - 📧 dudufedeli@Outlook.com
 
