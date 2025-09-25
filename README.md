@@ -56,8 +56,3 @@
 ---
 
 > 💡 “Não peço um fardo mais leve, mas ombros mais fortes”
-
-
-|[Snake animation](https://github.com/EduardoFedeli/EduardoFedeli/blob/output/github-contribution-grid-snake.svg)
-
-
