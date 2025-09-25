@@ -17,7 +17,7 @@ Busco constantemente novos desafios e oportunidades para aprender e criar soluç
 #
 
 <!-- Substitua este gif pelo seu GIF de estudo/trabalho -->
-<img align="right" alt="Study GIF" height="190px" src="./src/study.gif">
+<img align="right" alt="Study GIF" height="190px" src="./src/StudyGid.gif">
 
 <h3 align="left">Connect with me!</h3>
 
