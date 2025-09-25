@@ -7,12 +7,10 @@ on:
 
 permissions:
   contents: write  # permite commit/push
-  pages: write     # permite publicar no GitHub Pages
-  id-token: write  # necessário para actions de Pages
 
 jobs:
   update-snake:
-    name: Atualiza Snake e Publica Pages
+    name: Atualiza Snake Contribution
     runs-on: ubuntu-latest
     steps:
       # Clona o repositório
@@ -26,7 +24,7 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       # Commit & Push para branch "output"
-      - name: Commit Changes
+      - name: Commit and Push SVG
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
@@ -35,15 +33,3 @@ jobs:
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/EduardoFedeli/EduardoFedeli.git HEAD:output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      # Publica a branch "output" no GitHub Pages
-      - name: Deploy to GitHub Pages
-        uses: actions/configure-pages@v3
-
-      - name: Upload Pages
-        uses: actions/upload-pages-artifact@v4
-        with:
-          path: dist
-
-      - name: Publish Pages
-        uses: actions/deploy-pages@v4
