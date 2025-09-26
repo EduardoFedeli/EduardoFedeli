@@ -46,7 +46,6 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="25" alt="jira logo"  />
 </div>
-
 <hr style="border:1px solid #0077B5; margin-bottom: 30px;">
 
 <!-- Estatísticas do GitHub -->
