@@ -53,7 +53,7 @@
 <!-- Estatísticas do GitHub -->
 <h3 align="center">📊 Estatísticas do meu perfil</h3>
 <div align="center">
-  <img src="https://github.com/EduardoFedeli/EduardoFedeli/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+<img src="https://github.com/EduardoFedeli/EduardoFedeli/blob/main/github-metrics.svg" alt="Metrics" width="70%">
 </div>
 
 <!-- Contribution Grid Snake -->
