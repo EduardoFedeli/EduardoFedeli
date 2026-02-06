@@ -52,10 +52,8 @@
 
 <!-- Estatísticas do GitHub -->
 <h3 align="center">📊 Estatísticas do meu perfil</h3>
-<div align="center" style="display:flex; gap: 15px; flex-wrap: wrap; justify-content: center; margin-bottom: 30px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoFedeli&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=0077B5&icon_color=0077B5" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoFedeli&layout=donut&theme=radical&hide_border=true&bg_color=000000&title_color=0077B5&icon_color=0077B5" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=EduardoFedeli&theme=radical&hide_border=true&background=000000&fire=0077B5"/>
+<div align="center">
+  <img src="https://github.com/EduardoFedeli/EduardoFedeli/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 </div>
 
 <!-- Contribution Grid Snake -->
