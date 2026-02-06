@@ -1,10 +1,7 @@
 name: Metrics
 on:
-  # Executa as 00:00 todos os dias
   schedule: [{cron: "0 0 * * *"}]
-  # Permite rodar manualmente clicando num botão (para testar agora)
   workflow_dispatch:
-  # Roda quando você faz um push na branch main/master
   push: {branches: ["master", "main"]}
 
 jobs:
@@ -15,25 +12,21 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Seu token secreto
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Opções
+          # --- Configuração Visual ---
           user: EduardoFedeli
           template: classic
-          base: header, activity, community, repositories, metadata
+          # Removemos 'repositories' e 'metadata' para economizar altura
+          base: header, activity, community
           config_timezone: America/Sao_Paulo
           
-          # Plugin: Linguagens
+          # --- Linguagens (Compacto) ---
           plugin_languages: yes
           plugin_languages_ignored: >-
             html, css
-          plugin_languages_details: bytes-size, percentage
+          # Mostra só a barra de progresso, sem lista detalhada (economiza espaço vertical)
+          plugin_languages_details: percentage
           plugin_languages_limit: 8
           
-          # Plugin: Habits (Coding habits)
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
+          # --- REMOVIDO: Plugin Habits (Causador do erro) ---
