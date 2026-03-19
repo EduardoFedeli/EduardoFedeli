@@ -29,14 +29,24 @@
     </a>
   </div>
 
-  <br><br> <h3 align="left">My Stack ~</h2>
-  <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="C" style="margin-right: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" style="margin-right: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="35" alt="React" style="margin-right: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="35" alt="Azure" style="margin-right: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="35" alt="Jira" />
-  </div>
+  <br><br> 
+  
+  <h3 align="left">My Stack ~</h3>
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="35" alt="React" style="margin-right: 10px; margin-bottom: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="35" alt="TypeScript" style="margin-right: 10px; margin-bottom: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="35" alt="Next.js" style="margin-right: 10px; margin-bottom: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="35" alt="PostgreSQL" style="margin-right: 10px; margin-bottom: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height="35" alt="Prisma" style="margin-right: 10px; margin-bottom: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" height="35" alt="Docker" style="margin-right: 10px; margin-bottom: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="35" alt="AWS" style="margin-right: 10px; margin-bottom: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="35" alt="Linux" style="margin-right: 10px; margin-bottom: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" height="35" alt="Grafana" style="margin-right: 10px; margin-bottom: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" style="margin-right: 10px; margin-bottom: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="C" style="margin-right: 10px; margin-bottom: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="35" alt="Azure" style="margin-right: 10px; margin-bottom: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="35" alt="Notion" style="margin-right: 10px; margin-bottom: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" height="35" alt="WordPress" style="margin-bottom: 10px;" />
 </div>
 <br clear="both">
 
