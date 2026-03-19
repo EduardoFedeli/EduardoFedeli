@@ -44,11 +44,12 @@
 
 <h3 align="center">📊 Profile Stats</h3>
 <div align="center">
-  <img src="https://github.com/EduardoFedeli/EduardoFedeli/blob/main/github-metrics.svg" alt="Metrics" width="50%">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EduardoFedeli&show_icons=true&bg_color=0d1117&text_color=ffffff&icon_color=0077B5&title_color=0077B5&hide_border=true" alt="Eduardo's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoFedeli&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=0077B5&hide_border=true" alt="Eduardo's Top Languages" />
 </div>
 
-<div align="center" style="margin-bottom: 50px;">
-  <img src="https://raw.githubusercontent.com/EduardoFedeli/EduardoFedeli/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation" width="55%"/>
+<div align="center" style="margin-top: 10px; margin-bottom: 30px;">
+  <img src="https://raw.githubusercontent.com/EduardoFedeli/EduardoFedeli/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation" width="780"/>
 </div>
 
 <h2 align="center" style="color:#0077B5; margin-top:20px;">
