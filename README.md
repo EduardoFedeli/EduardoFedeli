@@ -54,9 +54,9 @@
 
 <h3 align="center">📊 Profile Stats</h3>
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EduardoFedeli&show_icons=true&theme=dark&bg_color=0d1117&text_color=ffffff&icon_color=0077B5&title_color=0077B5&hide_border=true" alt="Eduardo's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-pearl-nu-20.vercel.app/api?username=EduardoFedeli&show_icons=true&theme=dark&bg_color=0d1117&text_color=ffffff&icon_color=0077B5&title_color=0077B5&hide_border=true" alt="Eduardo's GitHub Stats" />
   &nbsp;&nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoFedeli&layout=compact&theme=dark&bg_color=0d1117&text_color=ffffff&title_color=0077B5&hide_border=true" alt="Eduardo's Top Languages" />
+  <img height="165" src="https://github-readme-stats-pearl-nu-20.vercel.app/api/top-langs/?username=EduardoFedeli&layout=compact&theme=dark&bg_color=0d1117&text_color=ffffff&title_color=0077B5&hide_border=true" alt="Eduardo's Top Languages" />
 </div>
 
 <div align="center" style="margin-top: 10px; margin-bottom: 30px;">
