@@ -54,8 +54,9 @@
 
 <h3 align="center">📊 Profile Stats</h3>
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EduardoFedeli&show_icons=true&bg_color=0d1117&text_color=ffffff&icon_color=0077B5&title_color=0077B5&hide_border=true" alt="Eduardo's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoFedeli&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=0077B5&hide_border=true" alt="Eduardo's Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EduardoFedeli&show_icons=true&theme=dark&bg_color=0d1117&text_color=ffffff&icon_color=0077B5&title_color=0077B5&hide_border=true" alt="Eduardo's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoFedeli&layout=compact&theme=dark&bg_color=0d1117&text_color=ffffff&title_color=0077B5&hide_border=true" alt="Eduardo's Top Languages" />
 </div>
 
 <div align="center" style="margin-top: 10px; margin-bottom: 30px;">
@@ -63,6 +64,6 @@
 </div>
 
 <h2 align="center" style="color:#0077B5; margin-top:20px;">
- <big><b><i>"Talk is cheap. Show me the code."</i></b></big> 
+ <big><b><i>"Computer Science is no more about computers than astronomy is about telescopes."</i></b></big> 
 </h2>
-<p align="center" style="color:#888;">— Linus Torvalds</p>
+<p align="center" style="color:#888;">— Edsger W. Dijkstra</p>
