@@ -24,9 +24,9 @@
     <a href="https://www.instagram.com/du.fedeli/">
       <img src="https://img.shields.io/badge/-Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
-    <a href="https://eduardo-fedeli.notion.site/Eduardo-Fedeli-2770deb1a37d80f584c4f1ff1f17fa2a">
+    <!--<a href="https://eduardo-fedeli.notion.site/Eduardo-Fedeli-2770deb1a37d80f584c4f1ff1f17fa2a">
       <img src="https://img.shields.io/badge/-Portfolio-0077B5?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio"/>
-    </a>
+    </a>-->
   </div>
 
   <br><br> 
