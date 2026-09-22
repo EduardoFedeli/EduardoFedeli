@@ -52,7 +52,7 @@
 
 <hr style="border:1px solid #0077B5; margin-top: 20px; margin-bottom: 20px;">
 
-<h3 align="center">📊 Profile Stats</h3>
+<h3 align="center">Profile Stats</h3>
 <div align="center">
   <img height="165" src="https://github-readme-stats-pearl-nu-20.vercel.app/api?username=EduardoFedeli&show_icons=true&theme=dark&bg_color=0d1117&text_color=ffffff&icon_color=0077B5&title_color=0077B5&hide_border=true" alt="Eduardo's GitHub Stats" />
   &nbsp;&nbsp;
