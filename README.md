@@ -5,7 +5,7 @@
 </div>
 
 <div style="font-size: 16px; line-height: 1.6; margin-bottom: 30px; text-align: justify;">
-  Sou estudante de Engenharia de Software e meu foco atual é dominar o desenvolvimento Full Stack, construindo projetos práticos de ponta a ponta. Atualmente, dedico meus estudos a entender a arquitetura completa das aplicações, da modelagem do banco de dados no back-end à experiência do usuário no front-end. Acredito que a melhor forma de aprender engenharia de software é colocando a mão no código e resolvendo problemas reais. 
+  Trabalho com DevOps e cloud: provisiono infraestrutura na AWS com Terraform, automatizo deploys com GitHub Actions e evoluo as ferramentas que rodam na cloud. Fora do trabalho, também construo a aplicação, do front-end ao banco de dados, com Next.js, TypeScript, Node.js e Prisma. Estou atualmente buscando novas certificações da AWS e aprimorando meu inglês.
 </div>
 
 <hr style="border:1px solid #0077B5; margin-bottom: 20px;">
@@ -18,7 +18,7 @@
     <a href="mailto:dudufedeli@outlook.com">
       <img src="https://img.shields.io/badge/-Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://www.linkedin.com/in/eduardo-fedeli-69174223b/">
+    <a href="https://www.linkedin.com/in/eduardofedeli/">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://www.instagram.com/du.fedeli/">
@@ -33,20 +33,19 @@
   
 <h3 align="left">My Stack ~</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="26" alt="React" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="26" alt="AWS" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" height="26" alt="Terraform" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="26" alt="GitHub Actions" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" height="26" alt="Docker" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="26" alt="Linux" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" height="26" alt="Grafana" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="26" alt="Python" style="margin-right: 8px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="26" alt="TypeScript" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="26" alt="React" style="margin-right: 8px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="26" alt="Next.js" style="margin-right: 8px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="26" alt="PostgreSQL" style="margin-right: 8px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height="26" alt="Prisma" style="margin-right: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" height="26" alt="Docker" style="margin-right: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="26" alt="AWS" style="margin-right: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="26" alt="Linux" style="margin-right: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" height="26" alt="Grafana" style="margin-right: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="26" alt="Python" style="margin-right: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="26" alt="C" style="margin-right: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="26" alt="Azure" style="margin-right: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="26" alt="Notion" style="margin-right: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" height="26" alt="WordPress" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="26" alt="C" style="margin-right: 8px;" />
 </div>
 <br clear="both">
 
